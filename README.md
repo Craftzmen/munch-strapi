@@ -1,2 +1,2 @@
-# munch-strapi
-munch-strapi content api
+# Munch - Strapi
+Content API
